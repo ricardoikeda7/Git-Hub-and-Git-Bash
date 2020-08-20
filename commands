@@ -1,0 +1,9 @@
+git pull 
+Atualiza o repositório local.
+
+git push
+Envia os arquivos locais para o repositório na nuvem.
+
+git status
+Mostra a a situação atual dos arquivos.
+
