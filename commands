@@ -7,3 +7,9 @@ Envia os arquivos locais para o repositório na nuvem.
 git status
 Mostra a a situação atual dos arquivos.
 
+git add .
+Grava os arquivos modificados
+
+git reset
+Desfaz o "git add ."
+
